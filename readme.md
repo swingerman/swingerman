@@ -20,22 +20,16 @@ Nice to see you! ![visitors](https://visitor-badge.glitch.me/badge?page_id=swing
 
 Full-stack web developer focusing on performance and optimization with 8 years of experience building web sites SPA's CMS from zero to production including DevOps, back end, and front end architecture. I love working with PHP, GO, Angular or React with a high focus on user reactive UI, microservices orchestrated by Kubernetes. Enjoying working on solutions that bring great value to people and are built on the latest technologies. Worked on mission-critical services that are used by millions of people. Communication and collaboration are key for my productivity and believe are important to progression, growth, and delivering valuable software. Optimization is my passion
 
-
 ---
 
 ### Talking aobut personal stuff:
 
-- :sunglasses: Working on the next big thing!
-- :heart: love optimizing stuff
-- :robot: love to automate stuff
-- :speech_balloon: Let's talk about business
-
+- :sunglasses: &nbsp;Working on the next big thing!
+- :heart: &nbsp;love optimizing stuff
+- :robot: &nbsp;love to automate stuff
+- :speech_balloon: &nbsp;Let's talk about business
 
 ---
-
-<div style="display: flex">
-
-<div style="width: 350px">
 
 ### Languages
 
@@ -46,19 +40,11 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-</div>
-
-<div style="width: 350px">
-
 ### Frameworks
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-
-</div>
-
-<div style="width: 350px">
 
 ### Technologies
 
@@ -67,12 +53,11 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![CPanel](https://img.shields.io/badge/-Cpanel-000?&logo=cPanel&logoColor=999)
-![GCS](https://img.shields.io/badge/-GCP-000?&logo=google-cloud&logoColor=999)
-
-</div>
-
-</div>
+![CPanel](https://img.shields.io/badge/-Cpanel-000?&logo=cPanel)
+![GCS](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
+![Analytics](https://img.shields.io/badge/-Google%20Analytics-000?&logo=google-analytics)
+![Ads](https://img.shields.io/badge/-Google%20Ads-000?&logo=google-ads)
+![DNS](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
 
 ---
 
