@@ -44,6 +44,7 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 </div>
 
@@ -67,6 +68,7 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![CPanel](https://img.shields.io/badge/-Cpanel-000?&logo=cPanel&logoColor=999)
+![GCS](https://img.shields.io/badge/-GCP-000?&logo=google-cloud&logoColor=999)
 
 </div>
 
