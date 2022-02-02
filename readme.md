@@ -66,9 +66,6 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swingerman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swingerman&hide_title=true&hide_border=true&layout=&langs_count=7&theme=graywhite" />
-
-
 ---
 
 ### This week I spent my time on:
