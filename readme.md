@@ -74,9 +74,7 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 <!--START_SECTION:waka-->
 
 ```txt
-Pug    1 hr 28 mins    █████████████████████████   99.93 %
-Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-SCSS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
