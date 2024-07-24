@@ -5,7 +5,7 @@ Nice to see you!
 
 <p id="socialIcons" align="left">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=swingerman.swingerman)
+![](https://api.visitorbadge.io/api/VisitorHit?user=swingerman&repo=swingerman&countColor=%237B1E7A)
 <a href="hhttps://www.linkedin.com/in/miklosszanyi/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 <a href="https://www.instagram.com/miklosszanyi/" alt="Instagram">
