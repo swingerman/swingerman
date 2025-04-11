@@ -74,11 +74,11 @@ Full-stack web developer focusing on performance and optimization with 8 years o
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 57 mins  ████████████████████░░░░░   80.40 %
-JSON         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-HTML         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Git          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+TypeScript   11 hrs 26 mins  ██████████████████░░░░░░░   72.55 %
+JSON         1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+HTML         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Git          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
