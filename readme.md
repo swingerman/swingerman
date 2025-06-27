@@ -19,13 +19,15 @@ Nice to see you!
 
 </p>
 
-Full-stack web developer focusing on performance and optimization with 8 years of experience building web sites SPA's CMS from zero to production including DevOps, back end, and front end architecture. I love working with PHP, GO, Angular or React with a high focus on user reactive UI, microservices orchestrated by Kubernetes. Enjoying working on solutions that bring great value to people and are built on the latest technologies. Worked on mission-critical services that are used by millions of people. Communication and collaboration are key for my productivity and believe are important to progression, growth, and delivering valuable software. Optimization is my passion
+I am a full-stack web developer specialising in performance and optimisation. I have extensive experience building websites, single-page applications (SPAs), and content management systems (CMS) from the ground up to production, encompassing both DevOps and architecture for both backend and frontend. I enjoy working with PHP, Go, Angular, and React, and I place a strong emphasis on creating user-friendly interfaces and developing microservices orchestrated by Kubernetes. I am passionate about creating solutions that provide significant value to users and leverage the latest technologies. 
+
+I have also worked on mission-critical services used by millions of people. Communication and collaboration are essential to productivity, growth, and delivering valuable software. Overall, optimisation is my passion. For my productivity, they are crucial to progress, development, and delivering valuable software. Optimisation is my passion.
 
 ---
 
-### Talking aobut personal stuff:
+### Talking about personal stuff:
 
-- :sunglasses: &nbsp;Working on the next big thing!
+- :sunglasses: &nbsp; Working on the next big thing!
 - :heart: &nbsp;love optimizing stuff
 - :robot: &nbsp;love to automate stuff
 - :speech_balloon: &nbsp;Let's talk about business
