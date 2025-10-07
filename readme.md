@@ -76,11 +76,11 @@ I have also worked on mission-critical services used by millions of people. Comm
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        7 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.63 %
-YAML              6 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-Groovy            2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-JSON              1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-JavaScript        1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+TypeScript        7 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.35 %
+YAML              6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.20 %
+Groovy            1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+JSON              1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JavaScript        1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
