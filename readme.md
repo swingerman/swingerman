@@ -76,11 +76,11 @@ I have also worked on mission-critical services used by millions of people. Comm
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      8 hrs 24 mins   ██████████████░░░░░░░░░░░   56.23 %
-JSON            2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Git             1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Markdown        1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-PHP             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+TypeScript   7 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.44 %
+JSON         1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Git          1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Markdown     1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+PHP          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
