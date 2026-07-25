@@ -76,9 +76,9 @@ I have also worked on mission-critical services used by millions of people. Comm
 <!--START_SECTION:waka-->
 
 ```txt
-Text       13 mins               ████████████░░░░░░░░░░░░░   48.49 %
-Markdown   11 mins               ██████████▓░░░░░░░░░░░░░░   43.02 %
-Other      2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Markdown   11 mins               ████████████▓░░░░░░░░░░░░   50.37 %
+Text       9 mins                ██████████░░░░░░░░░░░░░░░   39.69 %
+Other      2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
 ```
 
 <!--END_SECTION:waka-->
