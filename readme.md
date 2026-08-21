@@ -76,11 +76,11 @@ I have also worked on mission-critical services used by millions of people. Comm
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown        12 hrs 26 mins        ████████▓░░░░░░░░░░░░░░░░   34.70 %
-PHP             9 hrs 31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-TypeScript      4 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-JavaScript      3 hrs 24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-SCSS            1 hr 51 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+PHP             8 hrs 42 mins         ████████▒░░░░░░░░░░░░░░░░   32.82 %
+Markdown        6 hrs 32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+TypeScript      3 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+JavaScript      2 hrs 35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+SCSS            1 hr 49 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
