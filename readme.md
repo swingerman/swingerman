@@ -76,8 +76,7 @@ I have also worked on mission-critical services used by millions of people. Comm
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   11 mins               █████████████████████░░░░   84.19 %
-TypeScript   2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
